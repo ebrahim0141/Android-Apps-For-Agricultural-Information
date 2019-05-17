@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_gravity="center|top"
+    android:layout_height="match_parent"
+    tools:context=".Button59Activity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:layout_margin="5dp"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="রোগবালাই বিশেষজ্ঞ"
+            android:textSize="28dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="30dp"
+
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="(সকাল ৯টা - বিকাল ৫টা)"
+            android:textSize="25dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+
+            />
+
+        <TextView
+            android:clickable="true"
+            android:autoLink="all"
+            android:id="@+id/phoneNumberId"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="কল করুন :+8801711117724"
+            android:textSize="22dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+
+            />
+        <TextView
+            android:clickable="true"
+            android:id="@+id/textViewId"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/linktosite9"
+            android:textSize="22dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="দায়িত্ব প্রাপ্ত কর্মকরতার নাম ও পদবী"
+            android:textSize="19dp"
+            android:textStyle="bold"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/roogbalai_tecnologiest"
+            android:textSize="19dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="5dp"
+            />
+
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:padding="10dp"
+    android:orientation="vertical"
+    android:background="#27712a"
+    android:weightSum="4"
+    android:layout_height="match_parent"
+    tools:context=".FeedBackActivity">
+
+
+    <LinearLayout
+        android:layout_weight="0.5"
+        android:layout_width="match_parent"
+        android:layout_height="0dp">
+
+        <EditText
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:id="@+id/nameEditTextId"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="20dp"
+            android:hint="Enter Your Name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_weight="1.5"
+        android:layout_width="match_parent"
+        android:layout_height="0dp">
+
+        <EditText
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:id="@+id/messageEditTextId"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="20dp"
+            android:hint="Enter Your Message"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:gravity="center"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp">
+
+        <Button
+            android:layout_marginLeft="2dp"
+            style="@style/Widget.AppCompat.Button.Colored"
+            android:textStyle="bold"
+            android:id="@+id/sendButtonId"
+            android:textSize="20dp"
+            android:text="Send"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:layout_marginRight="2dp"
+            style="@style/Widget.AppCompat.Button.Colored"
+            android:textStyle="bold"
+            android:id="@+id/clearButtonId"
+            android:textSize="20dp"
+            android:text="Clear"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+
+
+</LinearLayout>

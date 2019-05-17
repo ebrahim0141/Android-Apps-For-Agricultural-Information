@@ -1,0 +1,317 @@
+<resources>
+    <string name="app_name">কৃষি মাস্টার</string>
+    <string name="button1">ফসল </string>
+    <string name="button2">অন্যান্য প্রযুক্তি </string>
+    <string name="button3">প্রশ্ন-করুন </string>
+    <string name="button4">উত্তর/মতামত </string>
+    <string name="button5">যোগাযোগ </string>
+
+
+    <string-array name="ip">
+        <item>item1</item>
+        <item>item2</item>
+        <item>item3</item>
+
+    </string-array>
+
+    <string-array name="tech_selector">
+        <item>কৃষি যন্ত্রপাতি</item>
+        <item>উদ্ভিদ রোগতত্ত্ব</item>
+        <item>কীটতত্ত্ব</item>
+        <item>সেচ ও পানি ব্যবস্থাপনা</item>
+        <item>শস্য সংগ্রহোত্তর প্রযুক্তি</item>
+        <item>কৃষিতত্ত্ব</item>
+        <item>সম্ভামনাময় প্রযুক্তি</item>
+    </string-array>
+
+    <string-array name="tech_selector1">
+        <item>আম পাড়া যন্ত্র </item>
+        <item>গুটি ইউরিয়া প্রয়োগ যন্ত্র </item>
+        <item>শস্য কর্তন যন্ত্র </item>
+        <item>ফল শোধন যন্ত্র </item>
+        <item>নারিকেল গাছে উঠা যন্ত্র </item>
+        <item>নারিকেলের ছোবড়া ছাড়ানো যন্ত্র </item>
+        <item>মোবাইল তেল নিষ্কাশন যন্ত্র </item>
+        <item>শক্তি চালিত শস্য মাড়াই যন্ত্র </item>
+        <item>হাই স্পিড রোটারি টিলার </item>
+        <item>আলু উত্তোলন যন্ত্র </item>
+    </string-array>
+
+    <string-array name="tech_selector2">
+        <item>মসুরের গোড়া পচা রোগ </item>
+        <item>কলার পানামা রোগ</item>
+        <item>টমেটো ও বেগুনের ব্যাকটেরিয়া জনিত ঢলে পড়া </item>
+        <item>ছোলার ঢলে পড়া বা উইল্ট </item>
+        <item>লেবুজাতীয় ফসলের ক্যাংকার রোগের দমন ব্যবস্থাপনা </item>
+        <item>পটলের গীটকৃমি </item>
+    </string-array>
+
+    <string-array name="tech_selector3">
+        <item>কপি জাতীয় ফসলের বিভিন্ন পাতা-খেকো পোকার সমন্বিত দমন ব্যবস্থাপনা </item>
+        <item>কুলের ফল ছিদ্রকারী উইভিল পোকার সমন্বিত দমন ব্যবস্থাপনা</item>
+        <item>কাকরোল, টমেটো ও শসা থেকে কীটনাশকের অবশিষ্টাংশ দূরীকরণ</item>
+        <item>কলার পাতা ও ফলের বিটল পোকা এর সমন্বিত দমন ব্যবস্থাপনা</item>
+        <item>মরিচের ফলছিদ্রকারী পোকা এর সমন্বিত ব্যবস্থাপনা</item>
+
+
+    </string-array>
+
+    <string name="mango_tools">
+        আম পাড়ার জন্য বাংলাদেশে বাঁশের চটার তৈরি গোলাকৃতি কোটা ব্যবহত হয় যার সাথে পাটের/নাইলনের রশির তৈরি জাল লাগানো থাকে।
+        কোটাটি একটি চিকন বাঁশের মাথায় লাগিয়ে ব্যবহার করা হয়। এ পদ্ধতিতে বোঁটা থেকে আম আলাদা হয় বলে বোঁটা পচা রোগ হয়।
+        ফলে আমের সংরক্ষণকাল কমে যায় এবং কৃষক আমের মুল্য কম পায়।
+        তাই বোঁটাসহ আম পাড়ার জন্য এ যন্ত্র তৈরি করা হয়েছে।আম রপ্তানিকারক দেশে যন্ত্রের সাহায্যে বোঁটাসহ আম পাড়া হয় বলে সাধারণত রোগ হয় না।\n\n
+
+        বৈশিষ্ট্যসমুহ :\n
+১। এ য্ন্ত্র দিয়ে বোঁটাসহ আম পাড়া যায়।\n
+২। প্রচলিত আম পাড়া কোটার চেয়ে ২০% দ্রুত আম পাড়া যায়।\n
+৩। যন্ত্রটি ঘন্টায় ২০০-৪০০ কেজি আম পাড়তে পারে।\n
+৪। যন্ত্রটির বাজার মূল্য ৪৫০ টাকা\n
+
+    </string>
+
+    <string name="urea_tools">
+        নাইট্রোজেন উদ্ভিদের জন্য অত্যাবশ্যকীয় উপাদানগুলির মধ্যে অন্যতম। ধান ক্ষেতে ৬-৭ সেমি কাদা মাটির নিচে গুটি ইউরিয়া প্রয়োগ করে সার অপচয় নিয়ন্ত্রণ করে সারের কার্যকারিতা বৃদ্ধি করা যায়।
+        গুটি ইউরিয়া প্রয়োগের সুবিধা থাকা সত্ত্বেও মাঠে গুটি ইউরিয়ার ব্যবহারে সেসব প্রতিবন্ধকতা রয়েছে এর মধ্যে অন্যতম হলো হাতে একটি একটি করে গুটি সার প্রয়োগ করা।
+        ধানের চারা গাছের মাঝে উপুড় হয়ে হাত দিয়ে কাঁদার নির্দিষ্ট গভীরে সার প্রয়োগ যেমন সময় সাপেক্ষ তেমনি কষ্টকর। অন্যদিকে নিরস ও কষ্টকর এ কাজের জন্য প্রয়োজন দক্ষ শ্রমিক,
+        যার অভাব দেশের সর্বএই। ধান চাষে গুটি ইউরিয়া ব্যবহারের অসুবিধাসমূহের কথা অনুধাবন করে গুটি ইউরিয়া প্রয়োগ যন্ত্র উদ্ভাবন করা হয়েছে।\n\n
+বৈশিষ্ট্যসমূহ :\n
+১। যন্ত্রটি দেশীয় কাঁচামাল দ্বারা স্থানীয় ওয়ার্কশপে তৈরি করা যায়।\n
+২। এমএস বার দ্বারা তৈরিকৃত ফ্রেমে মিটারিং ডিভাইস বসানো থাকে।\n
+৩। মিটারিং ডিভাইসের পাত্র ও ডিস্ক প্লাস্টিক দ্বারা তৈরি।\n
+৪। যন্ত্রের দুই পার্শ্বের দুটি এমএস সিট দ্বারা তৈরি নৌকাকৃতির স্কিড থাকে যা কাদার উপর যন্ত্রকে ভাসিয়ে রাখে।\n
+৫। স্কিডের নিচে দুুইটি ৬ সেমি দৈর্ঘ্যের ফারো ওপেনার আছে।\n
+৬।প্রতিটি ফারোকে বন্ধ করার জন্য দুটি করে ফারো ক্লোজার আছে।\n
+৭। ১.৫ মিটার দৈর্ঘ্যের একটি হ্যান্ডেল আছে যা চালকের দৈর্ঘ্যোর সাপেক্ষে বিভিন্ন কোণে স্থাপন করা যায়। হ্যান্ডেলে ধাক্কা দিয়ে যন্ত্রটি চালানো হয়।\n
+৮। যন্ত্রটি ২-৫ সেমি দাঁড়ানো পানিতে ভাল চলে।\n
+৯। মানুষের সাধারণ হাঁটার গতিতে (১-১.৫কি.মি/ঘন্টা) যন্ত্রটি চালানো যায়।\n
+১০। যন্ত্রটি সম্মুখ গতিতে ৮০ সেমি প্রস্থ জমিতে সার প্রয়োগ করে।\n
+১১। যন্ত্রটির ওজন ৯ কেজি।\n
+১২। যন্ত্রটি প্রতি ঘন্টায় ০.১০ হেক্টর জমিতে সার প্রয়োগ করতে পারে।\n
+১৩। যন্ত্রটির চালনা খরচ প্রতি হেক্টরে ৭০০ টাকা।
+
+    </string>
+
+
+    <string name="fosolHeading">প্রথমতঃ ফসলের ধরণ,দ্বিতীয়তঃ ফসলের নাম,তৃতীয়তঃ ফসলের জাত নির্বাচন করে নিশ্চিত করুন। </string>
+    <string name="anyQuery"> প্রশ্ন করুন\nইন্টারনেট সংযোগ আবশ্যক।</string>
+
+    <string-array name="types_of_crops1">
+        <item> ফসলের ধরণ নির্বাচন করুন</item>
+        <item> ধান</item>
+        <item> ইক্ষু</item>
+        <item> পাট</item>
+        <item> দানা ফসল</item>
+        <item> তুলা</item>
+        <item> ফল</item>
+        <item> ফুল</item>
+        <item> মসলা</item>
+        <item> সবজি ফসল</item>
+        <item> ডাল ফসল</item>
+        <item> তৈলবীজ</item>
+    </string-array>
+
+    <string-array name="name_of_crops">
+        <item> ধানের নাম নির্বাচন করুন </item>
+        <item> আউশ ধান </item>
+        <item> আমন </item>
+        <item> বোরো </item>
+    </string-array>
+
+    <string-array name="technologiest_list">
+        <item> আলু ফসল বিশেষজ্ঞ </item>
+        <item> গম ফসল বিশেষজ্ঞ </item>
+        <item> ডাল ফসল বিশেষজ্ঞ </item>
+        <item> ধান বিশেষজ্ঞ</item>
+        <item> ফল বিশেষজ্ঞ</item>
+        <item> ফুল বিশেষজ্ঞ </item>
+        <item> সার ও মাটি বিশেষজ্ঞ</item>
+        <item> সবজি বিশেষজ্ঞ</item>
+        <item> রোগবালাই বিশেষজ্ঞ</item>
+        <item> পোকামাকড় বিশেষজ্ঞ</item>
+    </string-array>
+
+    <string-array name="question_ans_list">
+        <item> লাউ গাছের সমস্যা </item>
+
+    </string-array>
+
+    <string-array name="aoush_paddy">
+        <item> ধানের জাত নির্বাচন করুন</item>
+        <item> ব্রি ধান৪৩</item>
+        <item> ব্রি ধান৪৮</item>
+        <item> ব্রি ধান৫৫</item>
+        <item> ব্রি ধান৬৫</item>
+    </string-array>
+
+    <string-array name="amon_paddy">
+        <item> ধানের জাত নির্বাচন করুন</item>
+        <item> ব্রি ধান৫৩</item>
+        <item> ব্রি ধান৫৪</item>
+        <item> ব্রি ধান৫৬</item>
+        <item> ব্রি ধান৫৭</item>
+    </string-array>
+
+    <string-array name="booro_paddy">
+        <item> ধানের জাত নির্বাচন করুন</item>
+        <item>  বিনা ধান-৮ (বোরো মৌসুম)</item>
+        <item>  বিনা ধান-১০ (বোরো মৌসুম)</item>
+        <item>  বিনা ধান-১৪ (বোরো মৌসুম)</item>
+    </string-array>
+
+    <string-array name="name_of_crops2">
+        <item> ঈক্ষুর নাম নির্বাচন করুন </item>
+        <item> ঈক্ষু </item>
+    </string-array>
+
+    <string-array name="ishawrdi_ikkhu">
+        <item> ঈক্ষুর জাত নির্বাচন করুন </item>
+        <item> ঈশ্বরদী ২৯ </item>
+    </string-array>
+
+    <string-array name="name_of_crops3">
+        <item> পাটের নাম নির্বাচন করুন </item>
+        <item> পাট </item>
+    </string-array>
+
+    <string-array name="bjri_jute">
+        <item> পাটের জাত নির্বাচন করুন </item>
+        <item>  বিজেআরআই দেশী পাট-৬ </item>
+    </string-array>
+
+    <string-array name="name_of_crops4">
+        <item>দানা ফসলের নাম নির্বাচন করুন </item>
+        <item>  ভুট্রা </item>
+    </string-array>
+
+    <string-array name="vutta">
+        <item> ভুট্রার জাত নির্বাচন করুন </item>
+        <item>  বখৈ ভুট্রা </item>
+    </string-array>
+
+    <string name="alo_tecnologiest">
+         ড.বিমল চন্দ্র কুন্ডু\n
+        প্রধান বৈজ্ঞানিক কর্মকর্তা\n
+        কন্দাল গভেষণা কেন্দ্র\n
+        বিএআরআই,গাজীপুর\n
+    </string>
+
+    <string name="linktosite1">
+        ইমেইল :
+        <a href="http://www.gmail.com">kundubc@gmail.com </a>
+    </string>
+
+    <string name="gom_tecnologiest">
+         ড. গোলাম ফারুক\n
+         প্রধান বৈজ্ঞানিক কর্মকর্তা\n
+         গম গবেষণা কেন্দ্র\n
+         বিএআরআই, গাজীপুর\n
+    </string>
+
+    <string name="linktosite2">
+        ইমেইল :
+        <a href="http://www.gmail.com">faruqwrc@gmail.com </a>
+    </string>
+
+    <string name="dal_tecnologiest">
+         ড. মো. ওমর আলী\n
+         প্রধান বৈজ্ঞানিক কর্মকর্তা\n
+         ডাল গবেষণা উপ-কেন্দ্র\n
+         বিএআরআই, গাজীপুর\n
+    </string>
+
+    <string name="linktosite3">
+        ইমেইল :
+        <a href="http://www.gmail.com">omaraliprc@gmail.com </a>
+    </string>
+
+    <string name="dhan_tecnologiest">
+        ড. মো: আব্দুল লতিফ\n
+        বিভাগীয় প্রধান\n
+        উদ্ভিদ রোগতত্ত্ব বিভাগ\n
+        বাংলাদেশ ধান গবেষণা ইনস্টিটিউট\n
+        জয়দেবপুর, গাজীপুর\n
+    </string>
+
+    <string name="linktosite4">
+        ইমেইল :
+        <a href="http://www.gmail.com">head.path@brri.gov.bd </a>
+    </string>
+
+    <string name="fall_tecnologiest">
+       ড. বাবুল চন্দ্র সরকার\n
+       প্রধান বৈজ্ঞানিক কর্মকর্তা(ফল)\n
+        উদ্যানতত্ত্ব গবেষণা কেন্দ্র\n
+       বিএআরআই, গাজীপুর\n
+    </string>
+
+    <string name="linktosite5">
+        ইমেইল :
+        <a href="http://www.gmail.com">bsarker_64@yahoo.com </a>
+    </string>
+
+    <string name="full_tecnologiest">
+       ড. কবিতা আনজু-মান-আরা\n
+       মুখ্য বৈজ্ঞানিক কর্মকর্তা\n
+       ফুল বিভাগ, উদ্যানতত্ত্ব গবেষণা কেন্দ্র\n
+       বিএআরআই, গাজীপুর\n
+    </string>
+
+    <string name="linktosite6">
+        ইমেইল :
+        <a href="http://www.gmail.com">dr.kabita_2009@yahoo.com </a>
+    </string>
+
+    <string name="soil_farti_tecnologiest">
+       ড. নির্মল চন্দ্র শীল\n
+       প্রধান বৈজ্ঞানিক কর্মকর্তা\n
+       মৃত্তিকা বিজ্ঞান বিভাগ\n
+       বিএআরআই, গাজীপুর\n
+
+    </string>
+
+    <string name="linktosite7">
+        ইমেইল :
+        <a href="http://www.gmail.com">nirmal_shil@yahoo.com </a>
+    </string>
+
+    <string name="sobji_tecnologiest">
+       ড. নির্মল চন্দ্র শীল\n
+       প্রধান বৈজ্ঞানিক কর্মকর্তা\n
+       মৃত্তিকা বিজ্ঞান বিভাগ\n
+       বিএআরআই, গাজীপুর\n
+
+    </string>
+
+    <string name="linktosite8">
+        ইমেইল :
+        <a href="http://www.gmail.com">akmqzs@gmail.com </a>
+    </string>
+
+    <string name="roogbalai_tecnologiest">
+       ড. আশরাফ উদ্দিন আহমেদ\n
+       প্রধান বৈজ্ঞানিক কর্মকর্তা\n
+       উদ্ভিত রোগতত্ত্ব বিভাগ\n
+       বিএআরআই, গাজীপুর\n
+
+    </string>
+
+    <string name="linktosite9">
+        ইমেইল :
+        <a href="http://www.gmail.com">kajalashraf@gmail.com </a>
+    </string>
+
+    <string name="pukamakor_tecnologiest">
+      ড. দেবাশীষ সরকার\n
+      মুখ্য বৈজ্ঞানিক কর্মকর্তা\n
+      কীটতত্ত্ব বিভাগ\n
+      বিএআরআই, গাজীপুর\n
+
+    </string>
+
+    <string name="linktosite10">
+        ইমেইল :
+        <a href="http://www.gmail.com">cso.ento@bari.gov.bd </a>
+    </string>
+
+</resources>

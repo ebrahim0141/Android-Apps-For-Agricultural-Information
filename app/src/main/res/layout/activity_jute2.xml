@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_margin="5dp"
+    android:padding="5dp"
+    android:gravity="center|top"
+    tools:context=".Jute2Activity">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ফসল নির্বাচন"
+        android:textSize="25dp"
+        android:layout_gravity="left"
+        android:layout_marginTop="10dp"
+        android:padding="5dp"
+        android:textColor="@color/colorPrimaryDark"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:textSize="20dp"
+        android:text="@string/fosolHeading"
+
+        />
+
+    <Spinner
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:id="@+id/spinnerId"
+        android:padding="5dp"
+        android:layout_margin="3dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+    </Spinner>
+
+</LinearLayout>

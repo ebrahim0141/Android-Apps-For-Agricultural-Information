@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Button3Activity">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp">
+
+        <TextView
+            android:gravity="center"
+            android:layout_marginTop="3dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/anyQuery"
+            android:textSize="21dp"
+            android:textStyle="italic"
+            android:textColor="@color/colorPrimaryDark"
+            />
+
+    <EditText
+        android:layout_marginTop="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/name"
+        android:layout_margin="10dp"
+        android:hint="নাম"
+        android:textSize="20dp"
+        />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/email"
+        android:layout_margin="10dp"
+        android:hint="ইমেইল"
+        android:textSize="20dp"
+        />
+
+    <EditText
+        android:id="@+id/mobile_num"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:hint="মোবাইল নম্বর"
+        android:textSize="20dp"
+        />
+
+    <EditText
+        android:id="@+id/occupation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:hint="পেশা"
+        android:textSize="20dp"
+        />
+
+    <EditText
+        android:id="@+id/subject"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:hint="বিষয়"
+        android:textSize="20dp"
+        />
+
+    <EditText
+        android:id="@+id/detailsExp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:hint="বিস্তারিত বিবরণ"
+        android:textSize="20dp"
+        />
+
+    <Button
+        android:id="@+id/bn"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/colorPrimaryDark"
+        android:text="Submit"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+</ScrollView>

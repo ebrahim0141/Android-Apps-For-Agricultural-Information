@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "902771520384",
+    "firebase_url": "https://agrimaster-8d469.firebaseio.com",
+    "project_id": "agrimaster-8d469",
+    "storage_bucket": "agrimaster-8d469.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902771520384:android:13892dcf8b0c6e54",
+        "android_client_info": {
+          "package_name": "com.helpagri.agrimaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902771520384-9ffublsnd2ot4pggrmfu9c12d47850pp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.helpagri.agrimaster",
+            "certificate_hash": "a9ad6c6cc0fc1a32ddad8c7685752eefdf456dbd"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3lNgffrTeW1KH0yDRbtPTHPh36Ip0XD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902771520384-32nnuc4durdoaoigdvvhkck46i19qpho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.helpagri.agrimaster">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Vutta2Activity"></activity>
+        <activity android:name=".VuttaActivity" />
+        <activity android:name=".BjriDeshiJuteActivity" />
+        <activity android:name=".Jute2Activity" />
+        <activity android:name=".JuteActivity" />
+        <activity android:name=".IshawrdiActivity" />
+        <activity android:name=".Ikkhu2Activity" />
+        <activity android:name=".IkkhuActivity" />
+        <activity android:name=".activity_button2_kit_kakrool_tomatoo_diseases" />
+        <activity android:name=".activity_button2_kit_cool_diseases" />
+        <activity android:name=".activity_button2_kit_morich_diseases" />
+        <activity android:name=".activity_button2_kit_kola_diseases" />
+        <activity android:name=".activity_button2_kit_coffy_diseases" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Button1Activity"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Button2Activity"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Button3Activity"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Button4Activity"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Button5Activity"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".AgriInstruments"
+            android:parentActivityName=".Button2Activity" />
+        <activity
+            android:name=".BotanyActivity"
+            android:parentActivityName=".Button2Activity" />
+        <activity
+            android:name=".KitActivity"
+            android:parentActivityName=".Button2Activity" />
+        <activity
+            android:name=".WaterActivity"
+            android:parentActivityName=".Button2Activity" />
+        <activity
+            android:name=".CropsActivity"
+            android:parentActivityName=".Button2Activity" />
+        <activity
+            android:name=".AgriTheoryActivity"
+            android:parentActivityName=".Button2Activity" />
+        <activity
+            android:name=".PossibilityActivity"
+            android:parentActivityName=".Button2Activity" />
+        <activity
+            android:name=".B2InstrumentMangoDetails"
+            android:parentActivityName=".AgriInstruments" />
+        <activity
+            android:name=".B2InstrumentUreaDetails"
+            android:parentActivityName=".AgriInstruments" />
+        <activity
+            android:name=".Button51Activity"
+            android:parentActivityName=".Button5Activity" />
+        <activity
+            android:name=".Button52Activity"
+            android:parentActivityName=".Button5Activity" />
+        <activity
+            android:name=".Button53Activity"
+            android:parentActivityName=".Button5Activity" />
+        <activity
+            android:name=".Button54Activity"
+            android:parentActivityName=".Button5Activity" />
+        <activity
+            android:name=".Button55Activity"
+            android:parentActivityName=".Button5Activity" />
+        <activity
+            android:name=".Button56Activity"
+            android:parentActivityName=".Button5Activity" />
+        <activity
+            android:name=".Button57Activity"
+            android:parentActivityName=".Button5Activity" />
+        <activity
+            android:name=".Button58Activity"
+            android:parentActivityName=".Button5Activity" />
+        <activity
+            android:name=".Button59Activity"
+            android:parentActivityName=".Button5Activity" />
+        <activity
+            android:name=".Button510Activity"
+            android:parentActivityName=".Button5Activity" />
+        <activity
+            android:name=".PaddyActivity"
+            android:parentActivityName=".Button1Activity" />
+        <activity
+            android:name=".AoushPaddyActivity"
+            android:parentActivityName=".PaddyActivity" />
+        <activity
+            android:name=".AmonPaddyActivity"
+            android:parentActivityName=".PaddyActivity" />
+        <activity
+            android:name=".BooroPaddyActivity"
+            android:parentActivityName=".PaddyActivity" />
+        <activity
+            android:name=".Bri43Activity"
+            android:parentActivityName=".AoushPaddyActivity" />
+        <activity
+            android:name=".Bri48Activity"
+            android:parentActivityName=".AoushPaddyActivity" />
+        <activity
+            android:name=".Bri55Activity"
+            android:parentActivityName=".AoushPaddyActivity" />
+        <activity
+            android:name=".Bri65Activity"
+            android:parentActivityName=".AoushPaddyActivity" />
+        <activity android:name=".Bri53Activity" />
+        <activity android:name=".Bri54Activity" />
+        <activity android:name=".Bri56Activity" />
+        <activity android:name=".Bri57Activity" />
+        <activity android:name=".FeedBackActivity" />
+        <activity android:name=".BinaDhan8Activity" />
+        <activity android:name=".BinaDhan10Activity" />
+        <activity android:name=".BianDhan14Activity" />
+        <activity android:name=".B2InstrumentFallShudonDetails" />
+        <activity android:name=".B2InstrumrntAloUttolonDetails" />
+        <activity android:name=".B2InstrumentCuttingCropsDetails" />
+        <activity android:name=".B2InstrumentRisingIncooconathDetails" />
+        <activity android:name=".B2InstrumentCooconautChobraDetails" />
+        <activity android:name=".B2InstrumentMobileOilDetails" />
+        <activity android:name=".B2InstrumentCroopsIrigationDetails" />
+        <activity android:name=".B2InstrumentHighSpeedRotariDetails" />
+        <activity android:name=".Button41Activity" />
+        <activity android:name=".Button2UdvidMosurMool" />
+        <activity android:name=".Button2UdvidDisease" />
+        <activity android:name=".Button2UdvidTomatooBegun" />
+        <activity android:name=".Button2UdvidChulaDisease" />
+        <activity android:name=".Button2UdvidLebuDisease" />
+        <activity android:name=".Button2UdvidPotolDisease" />
+        <activity android:name=".SignUpctivity" />
+        <activity android:name=".SignInActivity" />
+    </application>
+
+</manifest>
